@@ -7,7 +7,7 @@ namespace FastServer.Domain.Entities;
 public class Lunch
 {
     public int Id { get; set; }
-    public string Name { get; set; }
+    public string ?Name { get; set; }
     public decimal TotalValue { get; set; }
     public ICollection<LunchIngredient> LunchIngredients { get; set; } = new List<LunchIngredient>();
 
@@ -17,3 +17,4 @@ public class Lunch
                      LunchIngredients.Sum(li => li.Ingredient?.Value ?? 0)
                      : 0;
     }
+}

@@ -3,25 +3,10 @@
   "WorkspaceRootPath": "D:\\SYSGIT\\FastServer\\FastServer.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16835746-7005-41E2-BFEE-9F1A79EF74A4}|..\\FastServer.Domain\\FastServer.Domain.csproj|d:\\sysgit\\fastserver\\fastserver.domain\\entities\\lunchingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6120B61F-63CF-46AF-833A-4C7B17FE274A}|..\\FastServer.Infrastructure\\FastServer.Infrastructure.csproj|d:\\sysgit\\fastserver\\fastserver.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16835746-7005-41E2-BFEE-9F1A79EF74A4}|..\\FastServer.Domain\\FastServer.Domain.csproj|d:\\sysgit\\fastserver\\fastserver.domain\\entities\\lunch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16835746-7005-41E2-BFEE-9F1A79EF74A4}|..\\FastServer.Domain\\FastServer.Domain.csproj|d:\\sysgit\\fastserver\\fastserver.domain\\entities\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16835746-7005-41E2-BFEE-9F1A79EF74A4}|..\\FastServer.Domain\\FastServer.Domain.csproj|d:\\sysgit\\fastserver\\fastserver.domain\\fastserver.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16835746-7005-41E2-BFEE-9F1A79EF74A4}|..\\FastServer.Domain\\FastServer.Domain.csproj|d:\\sysgit\\fastserver\\fastserver.domain\\interfaces\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16835746-7005-41E2-BFEE-9F1A79EF74A4}|..\\FastServer.Domain\\FastServer.Domain.csproj|d:\\sysgit\\fastserver\\fastserver.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6120B61F-63CF-46AF-833A-4C7B17FE274A}|..\\FastServer.Infrastructure\\FastServer.Infrastructure.csproj|d:\\sysgit\\fastserver\\fastserver.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6120B61F-63CF-46AF-833A-4C7B17FE274A}|..\\FastServer.Infrastructure\\FastServer.Infrastructure.csproj|d:\\sysgit\\fastserver\\fastserver.infrastructure\\migrations\\20250701235034_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,101 +16,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LunchIngredient.cs",
-              "DocumentMoniker": "D:\\SYSGIT\\FastServer\\FastServer.Domain\\Entities\\LunchIngredient.cs",
-              "RelativeDocumentMoniker": "..\\FastServer.Domain\\Entities\\LunchIngredient.cs",
-              "ToolTip": "D:\\SYSGIT\\FastServer\\FastServer.Domain\\Entities\\LunchIngredient.cs",
-              "RelativeToolTip": "..\\FastServer.Domain\\Entities\\LunchIngredient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T01:22:36.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Lunch.cs",
-              "DocumentMoniker": "D:\\SYSGIT\\FastServer\\FastServer.Domain\\Entities\\Lunch.cs",
-              "RelativeDocumentMoniker": "..\\FastServer.Domain\\Entities\\Lunch.cs",
-              "ToolTip": "D:\\SYSGIT\\FastServer\\FastServer.Domain\\Entities\\Lunch.cs",
-              "RelativeToolTip": "..\\FastServer.Domain\\Entities\\Lunch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T01:22:16.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Ingredient.cs",
-              "DocumentMoniker": "D:\\SYSGIT\\FastServer\\FastServer.Domain\\Entities\\Ingredient.cs",
-              "RelativeDocumentMoniker": "..\\FastServer.Domain\\Entities\\Ingredient.cs",
-              "ToolTip": "D:\\SYSGIT\\FastServer\\FastServer.Domain\\Entities\\Ingredient.cs",
-              "RelativeToolTip": "..\\FastServer.Domain\\Entities\\Ingredient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T01:21:55.647Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FastServer.Domain",
-              "DocumentMoniker": "D:\\SYSGIT\\FastServer\\FastServer.Domain\\FastServer.Domain.csproj",
-              "RelativeDocumentMoniker": "..\\FastServer.Domain\\FastServer.Domain.csproj",
-              "ToolTip": "D:\\SYSGIT\\FastServer\\FastServer.Domain\\FastServer.Domain.csproj",
-              "RelativeToolTip": "..\\FastServer.Domain\\FastServer.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-01T01:20:28.311Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Interface1.cs",
-              "DocumentMoniker": "D:\\SYSGIT\\FastServer\\FastServer.Domain\\Interfaces\\Interface1.cs",
-              "RelativeDocumentMoniker": "..\\FastServer.Domain\\Interfaces\\Interface1.cs",
-              "ToolTip": "D:\\SYSGIT\\FastServer\\FastServer.Domain\\Interfaces\\Interface1.cs",
-              "RelativeToolTip": "..\\FastServer.Domain\\Interfaces\\Interface1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\SYSGIT\\FastServer\\FastServer.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\FastServer.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\SYSGIT\\FastServer\\FastServer.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\FastServer.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T01:11:48.661Z",
+              "WhenOpened": "2025-07-01T23:52:26.54Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "D:\\SYSGIT\\FastServer\\FastServer.Domain\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "..\\FastServer.Domain\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "D:\\SYSGIT\\FastServer\\FastServer.Domain\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "..\\FastServer.Domain\\Interfaces\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "20250701235034_InitialCreate.cs",
+              "DocumentMoniker": "D:\\SYSGIT\\FastServer\\FastServer.Infrastructure\\Migrations\\20250701235034_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\FastServer.Infrastructure\\Migrations\\20250701235034_InitialCreate.cs",
+              "ToolTip": "D:\\SYSGIT\\FastServer\\FastServer.Infrastructure\\Migrations\\20250701235034_InitialCreate.cs",
+              "RelativeToolTip": "..\\FastServer.Infrastructure\\Migrations\\20250701235034_InitialCreate.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T01:02:58.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\SYSGIT\\FastServer\\FastServer.Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\FastServer.Infrastructure\\Class1.cs",
-              "ToolTip": "D:\\SYSGIT\\FastServer\\FastServer.Infrastructure\\Class1.cs",
-              "RelativeToolTip": "..\\FastServer.Infrastructure\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T00:55:41.822Z",
+              "WhenOpened": "2025-07-01T23:50:34.906Z",
               "EditorCaption": ""
             }
           ]

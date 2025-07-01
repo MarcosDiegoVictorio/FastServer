@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\SYSGIT\\FastServer\\FastServer.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4C9E52CC-2FFD-4A6C-92FA-563C6F80C145}|FastServer.API.csproj|d:\\sysgit\\fastserver\\fastserver.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9E52CC-2FFD-4A6C-92FA-563C6F80C145}|FastServer.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9E52CC-2FFD-4A6C-92FA-563C6F80C145}|FastServer.API.csproj|d:\\sysgit\\fastserver\\fastserver.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C9E52CC-2FFD-4A6C-92FA-563C6F80C145}|FastServer.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{16835746-7005-41E2-BFEE-9F1A79EF74A4}|..\\FastServer.Domain\\FastServer.Domain.csproj|d:\\sysgit\\fastserver\\fastserver.domain\\entities\\lunchingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -12,16 +20,10 @@
       "AbsoluteMoniker": "D:0:0:{16835746-7005-41E2-BFEE-9F1A79EF74A4}|..\\FastServer.Domain\\FastServer.Domain.csproj|d:\\sysgit\\fastserver\\fastserver.domain\\entities\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16835746-7005-41E2-BFEE-9F1A79EF74A4}|..\\FastServer.Domain\\FastServer.Domain.csproj|d:\\sysgit\\fastserver\\fastserver.domain\\fastserver.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16835746-7005-41E2-BFEE-9F1A79EF74A4}|..\\FastServer.Domain\\FastServer.Domain.csproj|d:\\sysgit\\fastserver\\fastserver.domain\\interfaces\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{16835746-7005-41E2-BFEE-9F1A79EF74A4}|..\\FastServer.Domain\\FastServer.Domain.csproj|d:\\sysgit\\fastserver\\fastserver.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6120B61F-63CF-46AF-833A-4C7B17FE274A}|..\\FastServer.Infrastructure\\FastServer.Infrastructure.csproj|d:\\sysgit\\fastserver\\fastserver.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16835746-7005-41E2-BFEE-9F1A79EF74A4}|..\\FastServer.Domain\\FastServer.Domain.csproj|d:\\sysgit\\fastserver\\fastserver.domain\\fastserver.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,51 +33,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SYSGIT\\FastServer\\FastServer.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SYSGIT\\FastServer\\FastServer.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T23:42:39.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SYSGIT\\FastServer\\FastServer.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\SYSGIT\\FastServer\\FastServer.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-01T23:40:03.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "LunchIngredient.cs",
               "DocumentMoniker": "D:\\SYSGIT\\FastServer\\FastServer.Domain\\Entities\\LunchIngredient.cs",
               "RelativeDocumentMoniker": "..\\FastServer.Domain\\Entities\\LunchIngredient.cs",
               "ToolTip": "D:\\SYSGIT\\FastServer\\FastServer.Domain\\Entities\\LunchIngredient.cs",
               "RelativeToolTip": "..\\FastServer.Domain\\Entities\\LunchIngredient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T01:22:36.668Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Lunch.cs",
               "DocumentMoniker": "D:\\SYSGIT\\FastServer\\FastServer.Domain\\Entities\\Lunch.cs",
               "RelativeDocumentMoniker": "..\\FastServer.Domain\\Entities\\Lunch.cs",
               "ToolTip": "D:\\SYSGIT\\FastServer\\FastServer.Domain\\Entities\\Lunch.cs",
               "RelativeToolTip": "..\\FastServer.Domain\\Entities\\Lunch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T01:22:16.915Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Ingredient.cs",
               "DocumentMoniker": "D:\\SYSGIT\\FastServer\\FastServer.Domain\\Entities\\Ingredient.cs",
               "RelativeDocumentMoniker": "..\\FastServer.Domain\\Entities\\Ingredient.cs",
               "ToolTip": "D:\\SYSGIT\\FastServer\\FastServer.Domain\\Entities\\Ingredient.cs",
               "RelativeToolTip": "..\\FastServer.Domain\\Entities\\Ingredient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T01:21:55.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FastServer.Domain",
+              "DocumentIndex": 6,
+              "Title": "FastServer.Domain.csproj",
               "DocumentMoniker": "D:\\SYSGIT\\FastServer\\FastServer.Domain\\FastServer.Domain.csproj",
               "RelativeDocumentMoniker": "..\\FastServer.Domain\\FastServer.Domain.csproj",
               "ToolTip": "D:\\SYSGIT\\FastServer\\FastServer.Domain\\FastServer.Domain.csproj",
@@ -83,23 +115,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-07-01T01:20:28.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Interface1.cs",
-              "DocumentMoniker": "D:\\SYSGIT\\FastServer\\FastServer.Domain\\Interfaces\\Interface1.cs",
-              "RelativeDocumentMoniker": "..\\FastServer.Domain\\Interfaces\\Interface1.cs",
-              "ToolTip": "D:\\SYSGIT\\FastServer\\FastServer.Domain\\Interfaces\\Interface1.cs",
-              "RelativeToolTip": "..\\FastServer.Domain\\Interfaces\\Interface1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T01:11:48.661Z",
               "EditorCaption": ""
             },
             {
@@ -113,19 +128,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T01:02:58.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\SYSGIT\\FastServer\\FastServer.Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\FastServer.Infrastructure\\Class1.cs",
-              "ToolTip": "D:\\SYSGIT\\FastServer\\FastServer.Infrastructure\\Class1.cs",
-              "RelativeToolTip": "..\\FastServer.Infrastructure\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T00:55:41.822Z",
               "EditorCaption": ""
             }
           ]
