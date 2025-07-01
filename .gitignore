@@ -30,3 +30,13 @@ yarn-debug.log*
 yarn-error.log*
 # You may want to ignore files used by popular VS Code extensions
 .vscode/
+
+# Visual Studio
+.vs/                   # Ignora a pasta .vs
+*.user
+*.suo
+*.sln.docstates
+
+# Arquivos de cache e build
+[Bb]in/
+[Oo]bj/
