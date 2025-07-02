@@ -30,7 +30,7 @@
               "RelativeDocumentMoniker": "..\\FastServer.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ToolTip": "D:\\SYSGIT\\FastServer\\FastServer.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeToolTip": "..\\FastServer.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAgwGMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-01T23:52:26.54Z",
               "EditorCaption": ""
@@ -45,8 +45,7 @@
               "RelativeToolTip": "..\\FastServer.Infrastructure\\Migrations\\20250701235034_InitialCreate.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T23:50:34.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T23:50:34.906Z"
             }
           ]
         }
